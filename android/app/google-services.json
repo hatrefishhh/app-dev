@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223530301019",
+    "project_id": "cafe-diary-fad89",
+    "storage_bucket": "cafe-diary-fad89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223530301019:android:31e79695a7efbd354af17e",
+        "android_client_info": {
+          "package_name": "com.example.cafe_diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrs9qUCThXXqjCKiIpBknt9MfmWacAtQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
